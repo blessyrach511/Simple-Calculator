@@ -17,7 +17,7 @@ body {
 }
 
 #display {
-  width: 100%;
+  width: 90%;
   height: 50px;
   font-size: 24px;
   margin-bottom: 10px;
@@ -44,7 +44,7 @@ button {
 }
 
 button:hover {
-  background-color: #c7d2fe;
+  background-color: #43569f;
 }
 
 button.zero {
